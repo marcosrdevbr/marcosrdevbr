@@ -1,4 +1,4 @@
-# Hi, I'm Marcos Rogério 👋
+# Hi, I'm Marcos Rogério 👋🏾
 
 I'm a Trade Marketing and Marketing professional transitioning into Business Intelligence and Data Analytics.
 
