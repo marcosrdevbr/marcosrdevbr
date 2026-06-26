@@ -23,12 +23,18 @@ I’m currently building a portfolio with projects using Power BI, SQL, Excel, a
 ## 📊 Featured Projects
 
 ### Trade Marketing Intelligence Dashboard
-Power BI dashboard project focused on sales, profitability, regional performance, and business insights.
+Business Intelligence dashboard developed in Power BI to analyze sales performance, profitability, and regional KPIs.
 
-### SQL Business Analysis Project
-Coming soon.
+🔗 Repository:
+https://github.com/marcosrdevbr/Trade-Marketing-Intelligence-Dashboard
+
+### SQL Business Sales Analysis
+In development.
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/marcos-rogerio-017923302/
-- GitHub: https://github.com/marcosrdevbr
+- LinkedIn: 
+https://www.linkedin.com/in/marcos-rogerio-017923302/
+
+- GitHub: 
+https://github.com/marcosrdevbr
