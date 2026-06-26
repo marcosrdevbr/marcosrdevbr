@@ -28,7 +28,7 @@ Business Intelligence dashboard developed in Power BI to analyze sales performan
 🔗 Repository:
 https://github.com/marcosrdevbr/Trade-Marketing-Intelligence-Dashboard
 
-### SQL Business Sales Analysis
+### Sales Performance Analysis with SQL
 In development.
 
 ## 📫 Connect with me
