@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Marcos Rogério 👋
 
-<!--
-**marcosrdevbr/marcosrdevbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Trade Marketing and Marketing professional transitioning into Business Intelligence and Data Analytics.
 
-Here are some ideas to get you started:
+I’m currently building a portfolio with projects using Power BI, SQL, Excel, and data storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Background in Trade Marketing, Merchandising, Marketing, and Events
+- Studying Business Intelligence, SQL, Power BI, and Data Analytics
+- Interested in remote international opportunities
+- Building data projects focused on business insights and decision-making
+
+## 🛠️ Technologies
+
+- Power BI
+- Power Query
+- SQL
+- Excel
+- DAX
+- GitHub
+
+## 📊 Featured Projects
+
+### Trade Marketing Intelligence Dashboard
+Power BI dashboard project focused on sales, profitability, regional performance, and business insights.
+
+### SQL Business Analysis Project
+Coming soon.
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/marcos-rogerio-017923302/
+- GitHub: https://github.com/marcosrdevbr
