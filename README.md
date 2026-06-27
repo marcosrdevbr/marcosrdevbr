@@ -15,8 +15,8 @@ I’m currently building a portfolio with projects using Power BI, SQL, Excel, a
 
 - Power BI
 - Power Query
-- SQL
 - Excel
+- SQL
 - DAX
 - GitHub
 
