@@ -26,6 +26,7 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 - GitHub
 - Data Visualization
 - Business Intelligence
+- Tableau
 
 ---
 
