@@ -41,6 +41,7 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 ✅ SQL Analytics Projects
 
 🔗 Explore my repositories:
+
 https://github.com/marcosrdevbr?tab=repositories
 ---
 
