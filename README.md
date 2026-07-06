@@ -32,12 +32,6 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 
 ---
 
-## 📊 Featured Projects
-
-### 📈 Sales Performance Dashboard
-
-Interactive Power BI dashboard designed to analyze revenue, profitability, sales trends, and business KPIs.
-
 🔗 Repository:
 https://github.com/marcosrdevbr/Sales-Performance-Dashboard
 
