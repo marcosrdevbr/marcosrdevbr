@@ -18,15 +18,17 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 
 ## 🛠️ Technologies & Tools
 
-- Power BI
-- DAX
-- SQL
-- Excel
-- Power Query
-- GitHub
-- Data Visualization
-- Business Intelligence
-- Tableau
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4B0082?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-1F77B4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge)
 
 ---
 
