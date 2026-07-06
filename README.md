@@ -31,6 +31,7 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge)
 
 ---
+
 ## 📂 Portfolio Highlights
 
 ✅ Power BI Dashboards
@@ -41,15 +42,6 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 
 🔗 Explore my repositories:
 https://github.com/marcosrdevbr?tab=repositories
----
-
-### 🏪 Trade Marketing Intelligence Dashboard
-
-Business Intelligence dashboard developed to analyze sales performance, profitability, and regional KPIs from a Trade Marketing perspective.
-
-🔗 Repository:
-https://github.com/marcosrdevbr/Trade-Marketing-Intelligence-Dashboard
-
 ---
 
 ## 📚 Currently Learning
