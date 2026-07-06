@@ -31,19 +31,16 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge)
 
 ---
+## 📂 Portfolio Highlights
 
-🔗 Repository:
-https://github.com/marcosrdevbr/Sales-Performance-Dashboard
+✅ Power BI Dashboards
 
----
+✅ Tableau Dashboards
 
-### 🗄️ Sales Performance Analysis with SQL
+✅ SQL Analytics Projects
 
-SQL project focused on business analysis, revenue insights, regional performance, and data-driven decision-making.
-
-🔗 Repository:
-https://github.com/marcosrdevbr/Sales-Performance-Analysis-with-SQL
-
+🔗 Explore my repositories:
+https://github.com/marcosrdevbr?tab=repositories
 ---
 
 ### 🏪 Trade Marketing Intelligence Dashboard
@@ -58,9 +55,10 @@ https://github.com/marcosrdevbr/Trade-Marketing-Intelligence-Dashboard
 ## 📚 Currently Learning
 
 - Advanced SQL
+- Data Modeling
 - Power BI
+- Tableau
 - Business Intelligence
-- Marketing Analytics
 - Data Storytelling
 
 ---
