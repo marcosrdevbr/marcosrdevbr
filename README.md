@@ -31,6 +31,8 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge)
+![Customer Insights](https://img.shields.io/badge/Customer%20Insights-E53935?style=for-the-badge)
+![Sales Analytics](https://img.shields.io/badge/Sales%20Analytics-FB8C00?style=for-the-badge)
 
 ---
 
