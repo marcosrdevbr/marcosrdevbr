@@ -6,7 +6,7 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 
 ---
 
-![banner](Images/banner.png)
+![Banner](Images/banner.png)
 
 ## 🚀 About Me
 
