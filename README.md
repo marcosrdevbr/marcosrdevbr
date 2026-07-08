@@ -6,6 +6,8 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 
 ---
 
+![Banner](Images/banner.png)
+
 ## 🚀 About Me
 
 - Background in Trade Marketing, Marketing, Merchandising, and Events
