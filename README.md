@@ -18,6 +18,8 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Excel,
 
 ## 🛠️ Technologies & Tools
 
+![Trade_Marketing](https://img.shields.io/badge/Trade%20Marketing-F9A825?style=for-the-badge)
+![Marketing](https://img.shields.io/badge/Marketing-1F77B4?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
