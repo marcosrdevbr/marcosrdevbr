@@ -2,7 +2,7 @@
 
 I'm a Trade Marketing professional with experience in Marketing, Merchandising, and Events, currently expanding my expertise in Business Intelligence and Data Analytics.
 
-I enjoy transforming data into actionable insights through SQL, Power BI, Excel, and data storytelling, combining business knowledge with analytical thinking.
+I enjoy transforming data into actionable insights through SQL, Power BI, Tableau, Excel, and data storytelling, combining business knowledge with analytical thinking.
 
 ---
 
