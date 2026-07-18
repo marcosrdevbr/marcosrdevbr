@@ -15,6 +15,12 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+
+---
+
 ## 🚀 About Me
 
 - Background in Trade Marketing, Marketing, Merchandising, and Events
