@@ -8,8 +8,10 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ![Banner](Images/banner.png)
 
+![Banner](Images/banner.png)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcosrogerio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SEU-marcosrogerio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
