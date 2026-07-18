@@ -8,6 +8,8 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ![Banner](Images/banner.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20Views&color=blue&style=for-the-badge)
+
 ---
 
 ## 🚀 About Me
