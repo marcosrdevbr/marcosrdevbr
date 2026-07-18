@@ -8,7 +8,9 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ![Banner](Images/banner.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20Views&color=blue&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
