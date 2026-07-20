@@ -47,6 +47,8 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ## 📂 Portfolio Highlights
 
+[Power BI](https://powerbi.microsoft.com/)
+
 ✅ Power BI Dashboards
 
 ✅ Tableau Dashboards
