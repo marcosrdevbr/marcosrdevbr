@@ -47,7 +47,11 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ## 📂 Portfolio Highlights
 
-[Power BI](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)](https://powerbi.microsoft.com/)
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 ✅ Power BI Dashboards
 
