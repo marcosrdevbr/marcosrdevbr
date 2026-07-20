@@ -47,15 +47,6 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ## 📂 Portfolio Highlights
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/marcosrdevbr?tab=repositories)
-
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/marcosrdevbr?tab=repositories)
-
-[![SQL](https://img.shields.io/badge/SQL-Analytics-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/marcosrdevbr?tab=repositories)
-
-
-
-
 ✅ Power BI Dashboards
 
 ✅ Tableau Dashboards
