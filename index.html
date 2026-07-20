@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Dados & BI</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      padding: 40px 20px;
+      background: #0b1222;
+      color: #f5f7ff;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .bi-card {
+      width: 100%;
+      max-width: 650px;
+      margin: 0 auto;
+      padding: 40px;
+      background: #131d34;
+      border: 1px solid #263554;
+      border-radius: 24px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    }
+
+    .bi-card h2 {
+      margin-bottom: 20px;
+      font-size: 28px;
+    }
+
+    .bi-card p {
+      margin-bottom: 32px;
+      color: #9ba7c0;
+      font-size: 20px;
+      line-height: 1.6;
+    }
+
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .skill {
+      display: inline-flex;
+      align-items: center;
+      gap: 14px;
+
+      padding: 16px 24px;
+
+      background: #18243e;
+      border: 2px solid #263554;
+      border-radius: 18px;
+
+      color: #f5f7ff;
+      font-size: 22px;
+      text-decoration: none;
+
+      transition: 0.25s ease;
+    }
+
+    .skill:hover {
+      transform: translateY(-4px);
+      border-color: #f2c811;
+      box-shadow: 0 8px 20px rgba(242, 200, 17, 0.15);
+    }
+
+    .skill img {
+      width: 34px;
+      height: 34px;
+      object-fit: contain;
+    }
+
+    @media (max-width: 600px) {
+      .bi-card {
+        padding: 28px 20px;
+      }
+
+      .skills {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .skill {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <section class="bi-card">
+
+    <h2>📊 Dados & BI</h2>
+
+    <p>
+      Dashboards, análise e tratamento de dados para apoiar decisões.
+    </p>
+
+    <div class="skills">
+
+      <a
+        class="skill"
+        href="https://www.google.com/search?q=Power+BI"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
+          alt="Power BI"
+        >
+        <span>Power BI</span>
+      </a>
+
+      <a
+        class="skill"
+        href="https://www.google.com/search?q=Tableau"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"
+          alt="Tableau"
+        >
+        <span>Tableau</span>
+      </a>
+
+      <a
+        class="skill"
+        href="https://www.google.com/search?q=SQL"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
+          alt="SQL"
+        >
+        <span>SQL</span>
+      </a>
+
+    </div>
+
+  </section>
+
+</body>
+</html>
