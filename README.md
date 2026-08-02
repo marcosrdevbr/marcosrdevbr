@@ -70,8 +70,30 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 ## 📫 Connect with Me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/marcos-rogerio-017923302/
+<p align="left">
 
-💻 GitHub:
-https://github.com/marcosrdevbr
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/marcos-rogerio-017923302/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/marcosrdevbr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://marcosrdevbr.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</a>
+
+<a href="https://SEU-USUARIO.substack.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
+
+</p>
