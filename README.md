@@ -80,10 +80,6 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://github.com/marcosrdevbr" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.tableau.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </a>
