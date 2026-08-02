@@ -72,7 +72,7 @@ I enjoy transforming data into actionable insights through SQL, Power BI, Tablea
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/marcos-rogerio-017923302/" target="_blank">
+<a href="https://www.linkedin.com/in/marcos-rog%C3%A9rio-017923302/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
